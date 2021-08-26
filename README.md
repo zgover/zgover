@@ -12,45 +12,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~INTERNAL SECTION~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
-
 <!-- 
 * START GFM Supported Variables *below* 
 * (❗️ ORGANIZATION – PLACEMENT: UPMOST TOP OF FILE PRECEEDING ALL SOURCE ❗️) 
 * (❗️ ORGANIZATION – NAME CONVENTION: PREFIX ALL WITH `~var ` W/ SPACE ❗️)
 * (❗️ ORGANIZATION – NAME CONVENTION: PREFIX ALL WITH `~var ` W/ SPACE ❗️)
 -->
-
 [profile]: https://github.com/zgover "Zach Gover"
-
 <!-- END GFM Supported Variables -->
-
-
 <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~INTERNAL SECTION~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
-
-
 <!-- START GitHub user page tracking pixels -->
-
 <!-- https://yhype.me/ -->
 ![](https://hit.yhype.me/github/profile?user_id=9044773)
-
 <!-- https://komarev.com/ghpvc counter badge -->
-![](https://komarev.com/ghpvc/?username=zgover&style=flat-square&color=00c853&label=RECENT+VIEWS)
-
 <!-- END GitHub user page tracking pixels -->
-
-
 <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~INTERNAL SECTION~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
-
 
 # Zach Gover _— Founder, CEO @ Aglyn <sup>[ℹ️](#about-aglyn "About Aglyn LLC")</sup>_
 
-
+<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~INTERNAL SECTION~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
 > Hello there, Friend! 👋  
 > <sup><sub><cite>– _[Zach Gover][profile]_</cite></sub></sup>
-
-
 <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~INTERNAL SECTION~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
 
 
@@ -117,4 +100,10 @@ Enterprise: _Algyn LLC (aglyn) is an American global distributed technology comp
 
 [<img src="https://img.shields.io/badge/LinkedIn-Aglyn_Company-0A66C2?logo=linkedin&style=for-the-badge&color=0A66C2&logoColor=0A66C2&labelColor=ffffff&cacheSeconds=maxAge" alt="linkedin aglyn company" title="LinkedIn company Aglyn (https://www.linkedin.com/company/aglyn/)" height="24" />](https://www.linkedin.com/company/aglyn/)
 
-  
+<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~INTERNAL SECTION~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+
+--------------------------------------------------------------
+
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=zgover&style=flat-square&color=00c853&label=Recent+Views"/>
+</div>
