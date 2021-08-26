@@ -13,9 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~INTERNAL SECTION~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
 
 <!-- 
-* GFM Supported Variables *below* 
+* START GFM Supported Variables *below* 
 * (❗️ ORGANIZATION – PLACEMENT: UPMOST TOP OF FILE PRECEEDING ALL SOURCE ❗️) 
 * (❗️ ORGANIZATION – NAME CONVENTION: PREFIX ALL WITH `~var ` W/ SPACE ❗️)
 * (❗️ ORGANIZATION – NAME CONVENTION: PREFIX ALL WITH `~var ` W/ SPACE ❗️)
@@ -26,6 +27,21 @@ Here are some ideas to get you started:
 <!-- END GFM Supported Variables -->
 
 
+<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~INTERNAL SECTION~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+
+
+<!-- START GitHub user page tracking pixels -->
+
+<!-- https://yhype.me/ -->
+![](https://hit.yhype.me/github/profile?user_id=9044773)
+
+
+
+<!-- END GitHub user page tracking pixels -->
+
+
+<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~INTERNAL SECTION~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+
 
 # Zach Gover _— Founder, CEO @ Aglyn <sup>[ℹ️](#about-aglyn "About Aglyn LLC")</sup>_
 
@@ -33,6 +49,8 @@ Here are some ideas to get you started:
 > Hello there, Friend! 👋  
 > <sup><sub><cite>– _[Zach Gover][profile]_</cite></sub></sup>
 
+
+<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~INTERNAL SECTION~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
 
 
 <a name="his-concentration-of-specialty-titles"></a>
@@ -46,6 +64,8 @@ Here are some ideas to get you started:
 * Digital Marketer
 
 
+<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~INTERNAL SECTION~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+
 
 <a name="his-previous-employment-titles-devigner-related"></a>
 
@@ -56,6 +76,9 @@ Here are some ideas to get you started:
 - Web Development Manager
 - Senior, Marketing Project Lead
 - ..
+
+
+<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~INTERNAL SECTION~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
 
 
 <a name="follow-and-connect-with-him"></a>
@@ -70,16 +93,22 @@ Here are some ideas to get you started:
 
 <a name="about-aglyn"></a>
 
-[<img src="https://avatars.githubusercontent.com/u/54613175?s=100&v=4" alt="Aglyn" title="Aglyn navigate website (https://aglyn.com/)" height="80" />](https://aglyn.com/)
-
+[<img src="https://avatars.githubusercontent.com/u/54613175?s=100&v=4" alt="Aglyn" title="Visit Aglyn website (https://aglyn.com/)" height="80" />](https://aglyn.com/)
 ## About Aglyn
 
 [<img src="https://img.shields.io/badge/Aglyn-Secure_Website-9c27b0?style=for-the-badge&labelColor=404c5c&color=9c27b0&cacheSeconds=maxAge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCI+PGRlZnM+PGNsaXBQYXRoIGlkPSJiIj48cmVjdCB3aWR0aD0iMjQiIGhlaWdodD0iMjQiLz48L2NsaXBQYXRoPjwvZGVmcz48ZyBpZD0iYSIgY2xpcC1wYXRoPSJ1cmwoI2IpIj48cmVjdCB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIGZpbGw9IiM0MDRjNWMiLz48ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgzLjEyOCAyLjYyOSkiPjxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKDAgMC43KSI+PHBhdGggZD0iTTE3LjQyMiwxOC41ODNIMTUuMjY5bC0yLjY3My01LjhINS40NTNMMi44LDE4LjU4M0guNTU3bDguMTg0LTE4aC42MTVabS01Ljc0OC03Ljg1M0w5LjA0OCw0Ljg4OCw2LjQsMTAuNzMxWiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTAuNTU3IC0wLjU4MykiIGZpbGw9IiMwMzliZTUiLz48L2c+PGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMSAwLjM0NikiPjxwYXRoIGQ9Ik0xNy40MjIsMTguNTgzSDE1LjI2OWwtMi42NzMtNS44SDUuNDUzTDIuOCwxOC41ODNILjU1N2w4LjE4NC0xOGguNjE1Wm0tNS43NDgtNy44NTNMOS4wNDgsNC44ODgsNi40LDEwLjczMVoiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC0wLjU1NyAtMC41ODMpIiBmaWxsPSIjOWMyN2IwIi8+PC9nPjxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKDIpIj48cGF0aCBkPSJNMTcuNDIyLDE4LjU4M0gxNS4yNjlsLTIuNjczLTUuOEg1LjQ1M0wyLjgsMTguNTgzSC41NTdsOC4xODQtMThoLjYxNVptLTUuNzQ4LTcuODUzTDkuMDQ4LDQuODg4LDYuNCwxMC43MzFaIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtMC41NTcgLTAuNTgzKSIgZmlsbD0iI2ZmZiIvPjwvZz48L2c+PC9nPjwvc3ZnPg==&logoHeight=40" alt="aglyn secure website" title="Aglyn visit secure website (https://aglyn.com/)" height="24" />](https://aglyn.com/)
 
+
+<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~INTERNAL SECTION~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+
+
 **Website Designer Platform for Your Business Goals**
 
-Enterprise: *Algyn LLC (aglyn) is an American global distributed technology company and is most notable for Aglyn.com, as well as their contributions to improving the “no code” web development markets by optimizing the process and necessary steps for a website to get off the ground for organizations. Easing maintenance and minimizing work required by expensive engineers.*
-  
+Enterprise: _Algyn LLC (aglyn) is an American global distributed technology company and is most notable for Aglyn.com, as well as their contributions to improving the “no code” web development markets by optimizing the process and necessary steps for a website to get off the ground for organizations. Easing maintenance and minimizing work required by expensive engineers._
+
+
+<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~INTERNAL SECTION~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+
   
 <a name="follow-aglyn"></a>
 
