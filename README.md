@@ -35,7 +35,8 @@ Here are some ideas to get you started:
 <!-- https://yhype.me/ -->
 ![](https://hit.yhype.me/github/profile?user_id=9044773)
 
-
+<!-- https://komarev.com/ghpvc counter badge -->
+![](https://komarev.com/ghpvc/?username=zgover&style=flat-square&color=00c853&label=RECENT+VIEWS)
 
 <!-- END GitHub user page tracking pixels -->
 
