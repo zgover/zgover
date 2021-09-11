@@ -88,7 +88,7 @@ Here are some ideas to get you started:
 
 **Website Designer Platform for Your Business Goals**
 
-Enterprise: _Algyn LLC (aglyn) is an American global distributed technology company and is most notable for Aglyn.com, as well as their contributions to improving the “no code” web development markets by optimizing the process and necessary steps for a website to get off the ground for organizations. Easing maintenance and minimizing work required by expensive engineers._
+Enterprise: _Aglyn LLC (aglyn) is an American global distributed technology company and is most notable for Aglyn.com, as well as their contributions to improving the “no code” web development markets by optimizing the process and necessary steps for a website to get off the ground for organizations. Easing maintenance and minimizing work required by expensive engineers._
 
 
 <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~INTERNAL SECTION~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
