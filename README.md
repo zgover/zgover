@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <h1>Zach Gover | Founder, CEO at Aglyn <a href="#about-aglyn" title="About Aglyn LLC"><sup>�</sup></a></h1>
-  <h2>Autodidact extended by Full Sail University (FSU) graduate</h2>
+  <h2>Autodidact extended by Full Sail University (FSU)</h2>
   <br/>
   <br/>
 </div>
