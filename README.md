@@ -124,5 +124,5 @@ organizations. Easing maintenance and minimizing work required by expensive engi
 --------------------------------------------------------------
 
 <div align="right">
-  <img src="https://komarev.com/ghpvc/?username=zgover&style=flat-square&color=00c853&label=Recent+Views"/>
+  <img src="https://komarev.com/ghpvc/?username=zgover&style=flat-square&color=00c853&label=Recent+profile+views"/>
 </div>
