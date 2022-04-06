@@ -92,10 +92,10 @@ Here are some ideas to get you started:
 <div align="center">
   <h1>Aglyn</h1>
   <p>Website Designer Platform for Your Business Goals</p>
-  <a href="https://aglyn.com/" title="Aglyn visit secure website (https://aglyn.com/)">
+  <a href="https://aglyn.com/" title="Visit Aglyn's secure website (https://aglyn.com/)">
    <img src="https://img.shields.io/badge/Aglyn-Secure_Website-9C27B0?style=for-the-badge&cacheSeconds=maxAge&labelColor=404C5C&color=9C27B0&cacheSeconds=maxAge&logoHeight=40&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCI+PGRlZnM+PGNsaXBQYXRoIGlkPSJiIj48cmVjdCB3aWR0aD0iMjQiIGhlaWdodD0iMjQiLz48L2NsaXBQYXRoPjwvZGVmcz48ZyBpZD0iYSIgY2xpcC1wYXRoPSJ1cmwoI2IpIj48cmVjdCB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIGZpbGw9IiM0MDRjNWMiLz48ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgzLjEyOCAyLjYyOSkiPjxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKDAgMC43KSI+PHBhdGggZD0iTTE3LjQyMiwxOC41ODNIMTUuMjY5bC0yLjY3My01LjhINS40NTNMMi44LDE4LjU4M0guNTU3bDguMTg0LTE4aC42MTVabS01Ljc0OC03Ljg1M0w5LjA0OCw0Ljg4OCw2LjQsMTAuNzMxWiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTAuNTU3IC0wLjU4MykiIGZpbGw9IiMwMzliZTUiLz48L2c+PGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMSAwLjM0NikiPjxwYXRoIGQ9Ik0xNy40MjIsMTguNTgzSDE1LjI2OWwtMi42NzMtNS44SDUuNDUzTDIuOCwxOC41ODNILjU1N2w4LjE4NC0xOGguNjE1Wm0tNS43NDgtNy44NTNMOS4wNDgsNC44ODgsNi40LDEwLjczMVoiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC0wLjU1NyAtMC41ODMpIiBmaWxsPSIjOWMyN2IwIi8+PC9nPjxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKDIpIj48cGF0aCBkPSJNMTcuNDIyLDE4LjU4M0gxNS4yNjlsLTIuNjczLTUuOEg1LjQ1M0wyLjgsMTguNTgzSC41NTdsOC4xODQtMThoLjYxNVptLTUuNzQ4LTcuODUzTDkuMDQ4LDQuODg4LDYuNCwxMC43MzFaIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtMC41NTcgLTAuNTgzKSIgZmlsbD0iI2ZmZiIvPjwvZz48L2c+PC9nPjwvc3ZnPg==" alt="aglyn secure website"/>
   </a>
-  <a href="#">
+  <a href="https://aglyn.com/">
     <img src="https://img.shields.io/website?style=for-the-badge&cacheSeconds=300&labelColor=404C5C&label=Site%20Availability&down_color=E53935&down_message=online&up_color=4CAF50&up_message=online&url=https://aglyn.com/_static/images/brand/aglyn-logo.svg" alt="website availability"/>
   </a>
   <br/>
@@ -113,9 +113,9 @@ organizations. Easing maintenance and minimizing work required by expensive engi
 
 ##### Connect with us
 
-[![linkedin aglyn company](https://img.shields.io/badge/LinkedIn-Company_Page-0A66C2?logo=linkedin&style=for-the-badge&cacheSeconds=maxAge&color=0A66C2&logoColor=0A66C2&labelColor=F1F1F1)](https://www.linkedin.com/company/aglyn/ "LinkedIn company Aglyn (https://www.linkedin.com/company/aglyn/)")
-[![aglyn github organization](https://img.shields.io/badge/GitHub-Organization_Page-000000?style=for-the-badge&cacheSeconds=maxAge&labelColor=F1F1F1&color=404C5C&cacheSeconds=maxAge&logoHeight=40&logo=github&logoColor=000000)](https://aglyn.com/ "Aglyn visit GitHub organization")
-[![twitter aglyn official](https://img.shields.io/badge/Twitter-@AglynOfficial-1d9bf0?logo=twitter&style=for-the-badge&cacheSeconds=maxAge&color=1d9bf0&logoColor=1d9bf0&labelColor=F1F1F1)](https://www.linkedin.com/company/aglyn/ "Twitter Aglyn page (https://twitter.com/AglynOfficial)")
+[![linkedin aglyn company](https://img.shields.io/badge/LinkedIn-Company_Page-0A66C2?logo=linkedin&style=for-the-badge&cacheSeconds=maxAge&color=0A66C2&logoColor=0A66C2&labelColor=F1F1F1)](https://www.linkedin.com/company/aglyn/ "Aglyn LinkedIn page (https://www.linkedin.com/company/aglyn/)")
+[![aglyn github organization](https://img.shields.io/badge/GitHub-Organization_Page-000000?style=for-the-badge&cacheSeconds=maxAge&labelColor=F1F1F1&color=404C5C&cacheSeconds=maxAge&logoHeight=40&logo=github&logoColor=000000)](https://github.com/aglyn "Aglyn GitHub organization")
+[![twitter aglyn official](https://img.shields.io/badge/Twitter-@AglynOfficial-1d9bf0?logo=twitter&style=for-the-badge&cacheSeconds=maxAge&color=1d9bf0&logoColor=1d9bf0&labelColor=F1F1F1)](https://twitter.com/AglynOfficial "Aglyn Twitter page (https://twitter.com/AglynOfficial)")
 
 
 
