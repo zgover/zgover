@@ -125,7 +125,7 @@ organizations. Easing maintenance and minimizing work required by expensive engi
 
 <div align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=zgover&show_icons=true&bg_color=65,e040fb,00b0ff&title_color=fff&text_color=fff&icon_color=4d4d4d"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zgover&langs_count=10&card_width=480"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zgover&langs_count=10&card_width=480"/> -->
   <br/>
   <br/>
   <a href="https://wakatime.com/@361f7120-ee81-47f0-9024-6e144c3564fc"><img src="https://wakatime.com/badge/user/361f7120-ee81-47f0-9024-6e144c3564fc.svg" alt="Total time coded since Nov 28 2016" /></a>
