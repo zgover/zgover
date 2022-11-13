@@ -31,7 +31,8 @@ Here are some ideas to get you started:
 
 <div align="center">
   <h1>Zach Gover | Founder, CEO at Aglyn <a href="#about-aglyn" title="About Aglyn LLC"><sup>�</sup></a></h1>
-  <h2>Autodidact extended by Full Sail University (FSU)</h2>
+  <h2>First an autodidact by inclination then extended by Full Sail University (FSU)</h2>
+  <!--<h3>Mr. Gover is a humanoid from exoplanet <i>DCarnegie714</i> with many titles by inclination and experience</h3>-->
   <br/>
   <br/>
 </div>
