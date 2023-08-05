@@ -31,8 +31,8 @@ Here are some ideas to get you started:
 
 <div align="center">
   <h1>Zach Gover | Founder, CEO at Aglyn <a href="#about-aglyn" title="About Aglyn LLC"><sup>�</sup></a></h1>
-  <h2>First an autodidact by inclination then extended by Full Sail University (FSU)</h2>
-  <!--<h3>Mr. Gover is a humanoid from exoplanet <i>DCarnegie714</i> with many titles by inclination and experience</h3>-->
+  <h2>Autodidact acclaimed by Full Sail University (FSU)</h2>
+  <!--<h3>Mr. Gover is a humanoid from exoplanet with many titles by inclination and experience</h3>-->
   <br/>
   <br/>
 </div>
@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 - Director of Digital Marketing
 - Senior Full-Stack Engineer
 - Web Development Manager
-- Senior, Marketing Project Lead
+- Senior Developer & Project Lead
 - ..
 
 
@@ -75,7 +75,28 @@ Here are some ideas to get you started:
 
 ### Follow and Connect with Him 👀 
 
-[<img src="https://img.shields.io/badge/LinkedIn-282C34?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="linkedin follow" title="LinkedIn user Zach Gover (https://www.linkedin.com/in/zgover/)" height="24" />](https://www.linkedin.com/in/zgover/)
+[<img src="https://img.shields.io/badge/LinkedIn-282C34?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="linkedin" title="LinkedIn" height="24" />](https://www.linkedin.com/in/zgover/)
+[<img src="https://img.shields.io/badge/Twitter-1d9bf0?style=for-the-badge&logo=twitter&logoColor=ffffff" alt="twitter" title="Twitter" height="24" />](https://twitter.com/ZachWGover)
+
+
+
+<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~INTERNAL SECTION~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+
+--------------------------------------------------------------
+
+<div align="right">
+  <img src="https://github-readme-stats.vercel.app/api?username=zgover&show_icons=true&bg_color=65,e040fb,00b0ff&title_color=fff&text_color=fff&icon_color=4d4d4d"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zgover&langs_count=10&card_width=480"/> -->
+  <br/>
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=zgover&theme=dracula&column=-1"/>
+  <br/>
+  <br/>
+  <a href="https://wakatime.com/@361f7120-ee81-47f0-9024-6e144c3564fc"><img src="https://wakatime.com/badge/user/361f7120-ee81-47f0-9024-6e144c3564fc.svg" alt="Total time coded since Nov 28 2016" /></a>
+  <img src="https://komarev.com/ghpvc/?username=zgover&style=flat-square&color=00c853&label=Recent+profile+views"/>
+
+</div>
+
 
 
 --------------------------------------------------------------
@@ -103,7 +124,7 @@ Here are some ideas to get you started:
   <br/>
 </div>
 
-<hr/><!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~SECTION~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+<!--<hr/>--><!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~SECTION~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
 
 ## About Aglyn LLC Organization
 
@@ -112,23 +133,9 @@ notable for Aglyn.com, as well as their contributions to improving the “no cod
 markets by optimizing the process and necessary steps for a website to get off the ground for
 organizations. Easing maintenance and minimizing work required by expensive engineers._
 
-##### Connect with us
+##### Connect with Aglyn
 
 [![linkedin aglyn company](https://img.shields.io/badge/LinkedIn-Company_Page-0A66C2?logo=linkedin&style=for-the-badge&cacheSeconds=maxAge&color=0A66C2&logoColor=0A66C2&labelColor=F1F1F1)](https://www.linkedin.com/company/aglyn/ "Aglyn LinkedIn page (https://www.linkedin.com/company/aglyn/)")
 [![aglyn github organization](https://img.shields.io/badge/GitHub-Organization_Page-000000?style=for-the-badge&cacheSeconds=maxAge&labelColor=F1F1F1&color=404C5C&cacheSeconds=maxAge&logoHeight=40&logo=github&logoColor=000000)](https://github.com/aglyn "Aglyn GitHub organization")
 [![twitter aglyn official](https://img.shields.io/badge/Twitter-@AglynOfficial-1d9bf0?logo=twitter&style=for-the-badge&cacheSeconds=maxAge&color=1d9bf0&logoColor=1d9bf0&labelColor=F1F1F1)](https://twitter.com/AglynOfficial "Aglyn Twitter page (https://twitter.com/AglynOfficial)")
 
-
-
-<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~INTERNAL SECTION~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
-
---------------------------------------------------------------
-
-<div align="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=zgover&show_icons=true&bg_color=65,e040fb,00b0ff&title_color=fff&text_color=fff&icon_color=4d4d4d"/>
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zgover&langs_count=10&card_width=480"/> -->
-  <br/>
-  <br/>
-  <a href="https://wakatime.com/@361f7120-ee81-47f0-9024-6e144c3564fc"><img src="https://wakatime.com/badge/user/361f7120-ee81-47f0-9024-6e144c3564fc.svg" alt="Total time coded since Nov 28 2016" /></a>
-  <img src="https://komarev.com/ghpvc/?username=zgover&style=flat-square&color=00c853&label=Recent+profile+views"/>
-</div>
