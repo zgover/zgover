@@ -135,7 +135,7 @@ organizations. Easing maintenance and minimizing work required by expensive engi
 
 ##### Connect with Aglyn
 
-[![linkedin aglyn company](https://img.shields.io/badge/LinkedIn-Company_Page-0A66C2?logo=linkedin&style=for-the-badge&cacheSeconds=maxAge&color=0A66C2&logoColor=0A66C2&labelColor=F1F1F1)](https://www.linkedin.com/company/aglyn/ "Aglyn LinkedIn page (https://www.linkedin.com/company/aglyn/)")
-[![aglyn github organization](https://img.shields.io/badge/GitHub-Organization_Page-000000?style=for-the-badge&cacheSeconds=maxAge&labelColor=F1F1F1&color=404C5C&cacheSeconds=maxAge&logoHeight=40&logo=github&logoColor=000000)](https://github.com/aglyn "Aglyn GitHub organization")
-[![twitter aglyn official](https://img.shields.io/badge/Twitter-@AglynOfficial-1d9bf0?logo=twitter&style=for-the-badge&cacheSeconds=maxAge&color=1d9bf0&logoColor=1d9bf0&labelColor=F1F1F1)](https://twitter.com/AglynOfficial "Aglyn Twitter page (https://twitter.com/AglynOfficial)")
+[![linkedin](https://img.shields.io/badge/LinkedIn-Follow-0A66C2?logo=linkedin&style=for-the-badge&cacheSeconds=maxAge&color=0A66C2&logoColor=0A66C2&labelColor=F1F1F1)](https://www.linkedin.com/company/aglyn/ "LinkedIn")
+[![github](https://img.shields.io/badge/GitHub-Follow-000000?style=for-the-badge&cacheSeconds=maxAge&labelColor=F1F1F1&color=404C5C&cacheSeconds=maxAge&logoHeight=40&logo=github&logoColor=000000)](https://github.com/aglyn "GitHub")
+[![twitter](https://img.shields.io/badge/Twitter-Follow-1d9bf0?logo=twitter&style=for-the-badge&cacheSeconds=maxAge&color=1d9bf0&logoColor=1d9bf0&labelColor=F1F1F1)](https://twitter.com/AglynSoftware "Twitter")
 
