@@ -106,7 +106,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://aglyn.com/" title="View aglyn.com in new tab" target="_blank">
-    <img alt="Aglyn Logo" src="https://aglyn.com/_static/images/icons/icon.svg" style="height: 128px"/>
+    <img alt="Aglyn Logo" src="https://app.aglyn.io/_static/images/brand/aglyn-logo-mark-multi-144x144.png" style="height: 128px"/>
   </a>
 </div>
 
