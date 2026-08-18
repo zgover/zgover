@@ -60,9 +60,6 @@ surface, and it's the one the team can least afford to touch. Aglyn is my answer
   <img src="https://github-readme-stats.vercel.app/api?username=zgover&show_icons=true&bg_color=65,e040fb,00b0ff&title_color=fff&text_color=fff&icon_color=4d4d4d"/>
   <br/>
   <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=zgover&theme=dracula&column=-1"/>
-  <br/>
-  <br/>
   <a href="https://wakatime.com/@361f7120-ee81-47f0-9024-6e144c3564fc"><img src="https://wakatime.com/badge/user/361f7120-ee81-47f0-9024-6e144c3564fc.svg" alt="Total time coded since Nov 28 2016" /></a>
   <img src="https://komarev.com/ghpvc/?username=zgover&style=flat-square&color=00c853&label=Recent+profile+views"/>
 </div>
