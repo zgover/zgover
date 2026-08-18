@@ -1,92 +1,63 @@
 <!--
 **zgover/zgover** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~INTERNAL SECTION~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
-<!-- 
-* START GFM Supported Variables *below* 
-* (❗️ ORGANIZATION – PLACEMENT: UPMOST TOP OF FILE PRECEEDING ALL SOURCE ❗️) 
-* (❗️ ORGANIZATION – NAME CONVENTION: PREFIX ALL WITH `~var ` W/ SPACE ❗️)
-* (❗️ ORGANIZATION – NAME CONVENTION: PREFIX ALL WITH `~var ` W/ SPACE ❗️)
 -->
 [profile]: https://github.com/zgover "Zach Gover"
-<!-- END GFM Supported Variables -->
-<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~INTERNAL SECTION~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
 <!-- START GitHub user page tracking pixels -->
-<!-- https://yhype.me/ -->
 ![](https://hit.yhype.me/github/profile?user_id=9044773)
-<!-- https://komarev.com/ghpvc counter badge -->
 <!-- END GitHub user page tracking pixels -->
-<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~INTERNAL SECTION~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
 
 <div align="center">
-  <h1>Zach Gover | Founder, CEO at Aglyn <a href="#about-aglyn" title="About Aglyn LLC"><sup>�</sup></a></h1>
-  <h2>Autodidact acclaimed by Full Sail University (FSU)</h2>
-  <!--<h3>Mr. Gover is a humanoid from exoplanet with many titles by inclination and experience</h3>-->
-  <br/>
-  <br/>
+  <h1>Zach Gover</h1>
+  <p><strong>Founder &amp; CEO at <a href="#aglyn">Aglyn</a></strong> · Austin, TX</p>
+  <p><em>Most marketing leaders brief engineers. I ship the code.</em></p>
 </div>
 
-<blockquote>
-  Hello there, Friend! 👋  
-  <br/>
-  <sup><sub><cite>– <a href="https://github.com/zgover" title="zgover github profile">Zach Gover</a></cite></sub></sup>
-</blockquote>
+---
 
-<a name="his-concentration-of-specialty-titles"></a>
+### What I'm building
 
-### His Concentration of Specialty Titles 🧘🏼‍♂️
+**[Aglyn](https://aglyn.com)** — an open-source, self-hostable website platform for B2B SaaS teams.
+A real drag-and-drop builder, multi-tenant hosting, a plugin marketplace, and a public REST API.
 
-* Native Mobile & Web Application Engineer
-* Behavioral Scientist 
-* Philosopher 
-* Researcher 
-* Digital Marketer
+Run it fully managed, or self-host it with Docker against your own Firebase project — so teams
+working under HIPAA or SOC 2 constraints keep their data in their own infrastructure.
 
+I write the product, price it, and sell it.
 
-<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~INTERNAL SECTION~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+### How I got here
 
+Eighteen years on both sides of the marketing/engineering handoff:
 
-<a name="his-previous-employment-titles-devigner-related"></a>
+- **Aglyn** — Founder & CEO. TypeScript, React, Next.js, Node, NX, Firebase.
+- **DuploCloud** — Director of Marketing, seed through Series B.
+- **Caringo** — Director of Digital Marketing, through acquisition by DataCore.
+- **Gover Development** — my own practice, 2008–2016. Hundreds of client contracts.
 
-### His Previous Employment Titles 🏢 (_"Devigner"_ Related) 
+The pattern was the same everywhere: the marketing site is a company's most-visited product
+surface, and it's the one the team can least afford to touch. Aglyn is my answer to that.
 
-- Director of Digital Marketing
-- Senior Full-Stack Engineer
-- Web Development Manager
-- Senior Developer & Project Lead
-- ..
+### Stack
 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=fff)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=fff)
+![Nx](https://img.shields.io/badge/Nx-143055?style=flat-square&logo=nx&logoColor=fff)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=000)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=fff)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=fff)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=fff)
 
-<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~INTERNAL SECTION~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
-
-
-<a name="follow-and-connect-with-him"></a>
-
-### Follow and Connect with Him 👀 
+### Elsewhere
 
 [<img src="https://img.shields.io/badge/LinkedIn-282C34?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="linkedin" title="LinkedIn" height="24" />](https://www.linkedin.com/in/zgover/)
 [<img src="https://img.shields.io/badge/Twitter-1d9bf0?style=for-the-badge&logo=twitter&logoColor=ffffff" alt="twitter" title="Twitter" height="24" />](https://twitter.com/ZachWGover)
+[<img src="https://img.shields.io/badge/aglyn.com-9C27B0?style=for-the-badge&logoColor=ffffff" alt="aglyn.com" title="aglyn.com" height="24" />](https://aglyn.com)
 
-
-
-<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~INTERNAL SECTION~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
-
---------------------------------------------------------------
+---
 
 <div align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=zgover&show_icons=true&bg_color=65,e040fb,00b0ff&title_color=fff&text_color=fff&icon_color=4d4d4d"/>
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zgover&langs_count=10&card_width=480"/> -->
   <br/>
   <br/>
   <img src="https://github-profile-trophy.vercel.app/?username=zgover&theme=dracula&column=-1"/>
@@ -94,48 +65,26 @@ Here are some ideas to get you started:
   <br/>
   <a href="https://wakatime.com/@361f7120-ee81-47f0-9024-6e144c3564fc"><img src="https://wakatime.com/badge/user/361f7120-ee81-47f0-9024-6e144c3564fc.svg" alt="Total time coded since Nov 28 2016" /></a>
   <img src="https://komarev.com/ghpvc/?username=zgover&style=flat-square&color=00c853&label=Recent+profile+views"/>
-
 </div>
 
+---
 
-
---------------------------------------------------------------
-
-
-<a name="about-aglyn"></a>
+<a name="aglyn"></a>
 
 <div align="center">
   <a href="https://aglyn.com/" title="View aglyn.com in new tab" target="_blank">
     <img alt="Aglyn Logo" src="https://app.aglyn.io/_static/images/brand/aglyn-logo-mark-multi-144x144.png" style="height: 128px"/>
   </a>
+  <h2>Aglyn</h2>
+  <p>Your entire web presence. One canvas.</p>
 </div>
 
-
-<div align="center">
-  <h1>Aglyn</h1>
-  <p>Website Designer Platform for Your Business Goals</p>
-  <a href="https://aglyn.com/" title="Visit Aglyn's secure website (https://aglyn.com/)">
-   <img src="https://img.shields.io/badge/Aglyn-Secure_Website-9C27B0?style=for-the-badge&cacheSeconds=maxAge&labelColor=404C5C&color=9C27B0&cacheSeconds=maxAge&logoHeight=40&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCI+PGRlZnM+PGNsaXBQYXRoIGlkPSJiIj48cmVjdCB3aWR0aD0iMjQiIGhlaWdodD0iMjQiLz48L2NsaXBQYXRoPjwvZGVmcz48ZyBpZD0iYSIgY2xpcC1wYXRoPSJ1cmwoI2IpIj48cmVjdCB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIGZpbGw9IiM0MDRjNWMiLz48ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgzLjEyOCAyLjYyOSkiPjxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKDAgMC43KSI+PHBhdGggZD0iTTE3LjQyMiwxOC41ODNIMTUuMjY5bC0yLjY3My01LjhINS40NTNMMi44LDE4LjU4M0guNTU3bDguMTg0LTE4aC42MTVabS01Ljc0OC03Ljg1M0w5LjA0OCw0Ljg4OCw2LjQsMTAuNzMxWiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTAuNTU3IC0wLjU4MykiIGZpbGw9IiMwMzliZTUiLz48L2c+PGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMSAwLjM0NikiPjxwYXRoIGQ9Ik0xNy40MjIsMTguNTgzSDE1LjI2OWwtMi42NzMtNS44SDUuNDUzTDIuOCwxOC41ODNILjU1N2w4LjE4NC0xOGguNjE1Wm0tNS43NDgtNy44NTNMOS4wNDgsNC44ODgsNi40LDEwLjczMVoiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC0wLjU1NyAtMC41ODMpIiBmaWxsPSIjOWMyN2IwIi8+PC9nPjxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKDIpIj48cGF0aCBkPSJNMTcuNDIyLDE4LjU4M0gxNS4yNjlsLTIuNjczLTUuOEg1LjQ1M0wyLjgsMTguNTgzSC41NTdsOC4xODQtMThoLjYxNVptLTUuNzQ4LTcuODUzTDkuMDQ4LDQuODg4LDYuNCwxMC43MzFaIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtMC41NTcgLTAuNTgzKSIgZmlsbD0iI2ZmZiIvPjwvZz48L2c+PC9nPjwvc3ZnPg==" alt="aglyn secure website"/>
-  </a>
-  <a href="https://aglyn.com/">
-    <img src="https://img.shields.io/website?style=for-the-badge&cacheSeconds=300&labelColor=404C5C&label=Site%20Availability&down_color=E53935&down_message=online&up_color=4CAF50&up_message=online&url=https://aglyn.com/_static/images/brand/aglyn-logo.svg" alt="website availability"/>
-  </a>
-  <br/>
-  <br/>
-</div>
-
-<!--<hr/>--><!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~SECTION~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
-
-## About Aglyn LLC Organization
-
-Enterprise: _Aglyn LLC (aglyn) is an American global distributed technology company and is most
-notable for Aglyn.com, as well as their contributions to improving the “no code” web development
-markets by optimizing the process and necessary steps for a website to get off the ground for
-organizations. Easing maintenance and minimizing work required by expensive engineers._
+Aglyn is a website platform for teams who need to ship and operate their own web presence —
+sites, commerce, forms, media, and workflows — from one canvas, without handing it to a closed
+SaaS tool. Open source, self-hostable, and built by a small team in the US.
 
 ##### Connect with Aglyn
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-Follow-0A66C2?logo=linkedin&style=for-the-badge&cacheSeconds=maxAge&color=0A66C2&logoColor=0A66C2&labelColor=F1F1F1)](https://www.linkedin.com/company/aglyn/ "LinkedIn")
-[![github](https://img.shields.io/badge/GitHub-Follow-000000?style=for-the-badge&cacheSeconds=maxAge&labelColor=F1F1F1&color=404C5C&cacheSeconds=maxAge&logoHeight=40&logo=github&logoColor=000000)](https://github.com/aglyn "GitHub")
+[![github](https://img.shields.io/badge/GitHub-Follow-000000?style=for-the-badge&cacheSeconds=maxAge&labelColor=F1F1F1&color=404C5C&logoHeight=40&logo=github&logoColor=000000)](https://github.com/aglyn "GitHub")
 [![twitter](https://img.shields.io/badge/Twitter-Follow-1d9bf0?logo=twitter&style=for-the-badge&cacheSeconds=maxAge&color=1d9bf0&logoColor=1d9bf0&labelColor=F1F1F1)](https://twitter.com/AglynSoftware "Twitter")
-
