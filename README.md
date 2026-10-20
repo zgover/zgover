@@ -28,7 +28,7 @@ I write the product, price it, and sell it.
 
 Eighteen years on both sides of the marketing/engineering handoff:
 
-- **Aglyn** — Founder & CEO. TypeScript, React, Next.js, Node, NX, Firebase.
+- **Aglyn** — Founder & CEO. TypeScript, React, Next.js, Node, NX, Firebase, Swift, Kotlin.
 - **DuploCloud** — Director of Marketing, seed through Series B.
 - **Caringo** — Director of Digital Marketing, through acquisition by DataCore.
 - **Gover Development** — my own practice, 2008–2016. Hundreds of client contracts.
