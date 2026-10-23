@@ -70,7 +70,7 @@ surface, and it's the one the team can least afford to touch. Aglyn is my answer
 
 <div align="center">
   <a href="https://aglyn.com/" title="View aglyn.com in new tab" target="_blank">
-    <img alt="Aglyn Logo" src="https://app.aglyn.com/_static/images/brand/aglyn-logo-mark-multi-144x144.png" style="height: 128px"/>
+    <img alt="Aglyn Logo" src="https://raw.githubusercontent.com/aglyn/aglyn/refs/heads/main/public/_static_/%40aglyn/logo/320x132.png" style="height: 132px"/>
   </a>
   <h2>Aglyn</h2>
   <p>Your entire web presence. One canvas.</p>
