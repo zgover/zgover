@@ -22,7 +22,7 @@ A real drag-and-drop builder, multi-tenant hosting, a plugin marketplace, and a 
 Run it fully managed, or self-host it with Docker against your own Firebase project — so teams
 working under HIPAA or SOC 2 constraints keep their data in their own infrastructure.
 
-I write the product, price it, and sell it.
+I write the product, price it, and sell it, with the help of great people.
 
 ### How I got here
 
