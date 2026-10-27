@@ -14,7 +14,7 @@
 
 ---
 
-### What we built recently
+### What we've built recently
 
 **[Aglyn](https://aglyn.com)** — an open-source, self-hostable website platform for B2B SaaS teams.
 A real drag-and-drop builder, commerce platform, multi-tenant hosting, a plugin marketplace, and a public REST API.
