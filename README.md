@@ -73,7 +73,7 @@ surface, and it's the one the team can least afford to touch. Aglyn is my answer
     <img alt="Aglyn Logo" src="https://raw.githubusercontent.com/aglyn/aglyn/refs/heads/main/public/_static_/%40aglyn/logo/320x132.png" style="height: 132px"/>
   </a>
   <h2>Aglyn</h2>
-  <p>Your entire web presence. One canvas.</p>
+  <p>Your entire web presence, online. One canvas.</p>
 </div>
 
 Aglyn is a website platform for teams who need to ship and operate their own web presence —
