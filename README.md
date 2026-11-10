@@ -26,7 +26,7 @@ I write the product, price it, and sell it, with the help of great people.
 
 ### How I got here
 
-Eighteen years on both sides of the marketing/engineering handoff:
+Eighteen+ years on both sides of the marketing/engineering handoff:
 
 - **Aglyn** — Founder & CEO. TypeScript, React, Next.js, Node, NX, Firebase, Swift, Kotlin.
 - **DuploCloud** — Director of Marketing, seed through Series B.
@@ -77,7 +77,7 @@ surface, and it's the one the team can least afford to touch. Aglyn is my answer
 </div>
 
 Aglyn is a website platform for teams who need to ship and operate their own web presence —
-sites, commerce, forms, media, and workflows — from one canvas, without handing it to a closed
+sites, commerce, forms, media, emailing, and workflows — from one canvas, without handing it to a closed
 SaaS tool. Open source, self-hostable, and built by a small team in the US.
 
 ##### Connect with Aglyn
