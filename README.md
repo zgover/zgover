@@ -26,7 +26,7 @@ I write the product, price it, and sell it, with the help of great people.
 
 ### How I got here
 
-Eighteen+ years on both sides of the marketing/engineering handoff:
+Eighteen+ years on both sides of the marketing, engineering, and sales handoff:
 
 - **Aglyn** — Founder & CEO. TypeScript, React, Next.js, Node, NX, Firebase, Swift, Kotlin.
 - **DuploCloud** — Director of Marketing, seed through Series B.
