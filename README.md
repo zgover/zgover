@@ -78,7 +78,7 @@ surface, and it's the one the team can least afford to touch. Aglyn is my answer
 
 Aglyn is a website platform for teams who need to ship and operate their own web presence —
 sites, commerce, forms, media, emailing, pos, and workflows — from one canvas, without handing it to a closed
-SaaS tool. Open source, self-hostable, and built by a small team in the US.
+SaaS tool. Open source, self-hostable, and built by a company in the US.
 
 ##### Connect with Aglyn
 
