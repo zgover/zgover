@@ -17,7 +17,7 @@
 ### What we've built
 
 **[Aglyn](https://aglyn.com)** — an open-source, website platform for B2B SaaS teams cloud or self-hostable.
-A real drag-and-drop builder, commerce platform, multi-tenant hosting, customer relationship management (CRM), email marketing, a plugin marketplace, and a public REST API.
+A real drag-and-drop website builder, commerce platform, multi-tenant hosting, customer relationship management (CRM), email marketing, a plugin marketplace, and a public REST API.
 
 Run it fully managed, or self-host it with Docker against your own Firebase project — so teams
 working under HIPAA or SOC 2 constraints keep their data in their own infrastructure.
